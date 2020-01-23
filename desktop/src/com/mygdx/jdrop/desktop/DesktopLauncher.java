@@ -13,6 +13,6 @@ public class DesktopLauncher {
 		config.width = 800;
 		config.height = 480;
 
-		new LwjglApplication(new DropJoan(), config);
+		new LwjglApplication(new JDrop(), config);
 	}
 }
